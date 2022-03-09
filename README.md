@@ -1,1 +1,4 @@
-# item_based_collaborative_filtering
+# Item Based Collaborative Filtering (Item Based Recommender System)
+
+### Dataset: https://grouplens.org/datasets/movielens/
+
